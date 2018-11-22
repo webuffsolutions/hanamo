@@ -1,4 +1,4 @@
-<p align="left"><img src="https://www.webuffsolutions.com/assets/img/webuff_logo-small.png" height=100px; width=300px;></p>
+<p align="left"><img src="https://www.webuffsolutions.com/assets/img/webuff_logo-small.png"></p>
 
 # Hanamo Stock Management System
 
@@ -9,14 +9,14 @@
 3. From a fork of this exact same repo, send a link of your work to info@webuffsolutions.com . (If you dont have a github account, it has to be created)
 
 ## Requirements:
-  -Ability to login as admin / stock master
+  - Ability to login as admin / stock master
 
-  ### Admin Account:
-  -CRUD functionality (Create/ Read / Update / Delete) for: users / product_groups / products
+  Admin Account:
+  - CRUD functionality (Create/ Read / Update / Delete) for: users / product_groups / products
 
-  ### Stock Master:
-  -Ability to view all products
-  -Ability to add/less product stocks
+  Stock Master:
+  - Ability to view all products
+  - Ability to add/less product stocks
 
   Users:
   - admin (email: admin@gmail.com | password: p@ssw^rd)
