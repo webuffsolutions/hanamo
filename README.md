@@ -36,6 +36,9 @@
 - Use basic Laravel resource controllers with default methods – index, create, store etc.
 - Batch Import/Export using Laravel Excel (Required)
 
+## Sample Excel Format:
+<p align="center"><img src="uploads/sample.PNG" height=100px; width=300px;></p>
+
 ## Pointers:
 - Clearly written code is a big plus
 - Bonus: Ajax Implementation, TDD, Repository Pattern, Us e of other frontend frameworks like semantic-ui, bulma-css, materialize css, etc
