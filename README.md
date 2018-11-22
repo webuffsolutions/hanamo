@@ -1,3 +1,5 @@
+<p align="left"><img src="https://www.webuffsolutions.com/assets/img/webuff_logo-small.png" height=100px; width=300px;></p>
+
 # Hanamo Stock Management System
 
 ## Instructions
@@ -37,7 +39,7 @@
 - Batch Import/Export using Laravel Excel (Required)
 
 ## Sample Excel Format:
-<p align="center"><img src="uploads/sample.PNG" height=100px; width=300px;></p>
+<p align="left"><img src="uploads/sample.PNG" height=100px; width=300px;></p>
 
 ## Pointers:
 - Clearly written code is a big plus
