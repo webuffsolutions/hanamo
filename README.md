@@ -36,9 +36,9 @@
 - Use Laravel make:auth as default Bootstrap-based design theme (Required)
 - Use Laravel’s validation function, using Request classes
 - Use basic Laravel resource controllers with default methods – index, create, store etc.
-- Batch Import/Export using Laravel Excel (Required)
+- Batch Import/Export using Laravel Excel (Bonus, Not required.)
 
-## Sample Excel Format:
+## Sample Excel Format: (BONUS, Not required)
 <p align="left"><img src="uploads/sample.PNG" height=100px; width=300px;></p>
 
 ## Pointers:
